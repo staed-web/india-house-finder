@@ -1,0 +1,4 @@
+.container { max-width: 1200px; margin: 0 auto; padding: 20px; font-family: sans-serif; }
+.listing-card { border: 1px solid #eee; padding: 15px; margin: 10px 0; border-radius: 8px; }
+.filters { display: flex; gap: 10px; flex-wrap: wrap; margin: 20px 0; }
+.filters input, .filters select, .filters button { padding: 8px; }
